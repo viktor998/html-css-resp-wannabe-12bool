@@ -41,7 +41,7 @@ img {
 
 @media all and  (min-width:992px){
     body{
-        font-size: 1.3em;
+        font-size: 1em;
     }
     img {
         height: 200px;
