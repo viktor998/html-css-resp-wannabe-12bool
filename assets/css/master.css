@@ -33,11 +33,7 @@ img {
 
 /* MODIFICA 12-COL-FRAMEWORK MEDIA */
 
-@media all and (max-width: 768px){
-    body{
-        font-size: 1em;
-    }
-}
+
 
 @media all and  (min-width:992px){
     body{
@@ -60,5 +56,5 @@ img {
 }
 
 .margin-bottom{
-    margin-bottom: 1em;
+    margin-bottom: 2em;
 }
