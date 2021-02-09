@@ -214,7 +214,7 @@
     }
 }
 
-@media all and (max-width: 768px){
+@media all and (min-width: 768px){
     .col-md-1{
         width: calc(100% / 12);
     }
@@ -312,7 +312,7 @@
     }
 }
 
-@media all and (max-width: 992px){
+@media all and (min-width: 992px){
     .col-lg-1{
         width: calc(100% / 12);
     }
