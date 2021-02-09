@@ -31,6 +31,8 @@ img {
     padding: 15px
 }
 
+/* MODIFICA 12-COL-FRAMEWORK MEDIA */
+
 @media all and (max-width: 768px){
     body{
         font-size: 1em;
